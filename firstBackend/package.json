@@ -16,7 +16,7 @@
     "consolidate": "^0.15.1",
     "express": "^4.16.4",
     "file-system": "^2.2.2",
-    "handlebars": "^4.1.1",
+    "handlebars": "^4.5.3",
     "jade": "^1.11.0",
     "lodash": "^4.17.11"
   },
